@@ -3,7 +3,7 @@
 ## System
 
 Bootloader: Opencore 0.6.5\
-OS: macOS 11.1 Big Sur\
+OS: macOS 11.1 Big Sur
 
 ## Hardware
 
